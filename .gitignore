@@ -1,0 +1,14 @@
+.venv/
+venv/
+.env*
+!.env.example
+!**/.env.example
+**/__pycache__/
+*.py[cod]
+*.pkl
+backend/uploads/
+backend/dataset_versions/
+*.sqlite*
+frontend/node_modules/
+frontend/dist/
+data/

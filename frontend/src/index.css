@@ -1,0 +1,20 @@
+html {
+  margin: 0;
+  padding: 0;
+
+  background: #07100d;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  min-width: 320px;
+  min-height: 100vh;
+
+  background: #07100d;
+}
+
+#root {
+  min-height: 100vh;
+}
